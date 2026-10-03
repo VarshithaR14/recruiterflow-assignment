@@ -38,9 +38,9 @@ score = 55% skill overlap + 25% experience fit + 10% culture-trait overlap
 See sql_detective/sql_detective.sql (setup data in setup.sql).
 
 ## AI usage
-(Write honestly. For example: "I used Claude to get a step-by-step guide and
+I used Claude to get a step-by-step guide and
 asked it to explain the code. I read and understood each file before
-submitting.")
+submitting.
 
 ## Not done
 Tests and API docs.
